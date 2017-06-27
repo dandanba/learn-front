@@ -1,0 +1,140 @@
+{
+  "code": 200,
+  "msg": "ok",
+  "data": {
+    "user": {
+      "icon": "../img/drama/2.jpg"
+    },
+    "coupons": {
+      "description": {
+        "seconds": "108000",
+        "message": "每日10:00优惠券免费领，数量有限，先到先得"
+      },
+      "items": [
+        {
+          "id": 1,
+          "discount": "10",
+          "condition": "满350元可用",
+          "application": "戏剧类app专享",
+          "state": 1
+        },
+        {
+          "id": 2,
+          "discount": "30",
+          "condition": "满700元可用",
+          "application": "戏剧类app专享",
+          "state": 0
+        },
+        {
+          "id": 3,
+          "discount": "50",
+          "condition": "满800元可用",
+          "application": "戏剧类app专享",
+          "state": 2
+        }
+      ]
+    },
+    "topics": {
+      "description": {
+        "title": "热门话题"
+      },
+      "items": [
+        {
+          "id": 1,
+          "image": "../img/drama/2.jpg",
+          "title": "#我在戏剧节现场#",
+          "description": "简短话题描述简短描述简短描述简短描述…",
+          "hot": 290
+        },
+        {
+          "id": 2,
+          "image": "../img/drama/2.jpg",
+          "title": "#我在戏剧节现场#",
+          "description": "简短话题描述简短描述简短描述简短描述…",
+          "hot": 290
+        },
+        {
+          "id": 3,
+          "image": "../img/drama/2.jpg",
+          "title": "#我在戏剧节现场#",
+          "description": "简短话题描述简短描述简短描述简短描述…",
+          "hot": 290
+        }
+      ]
+    },
+    "recommends": {
+      "description": {
+        "title": "猜你喜欢"
+      },
+      "items": [
+        {
+          "id": 1,
+          "image": "../img/drama/2.jpg",
+          "title": "[北京]六一前夕与雪孩子一起体验漫 天飞舞《雪孩子》",
+          "startTime": "2017.05.29",
+          "endTime": "",
+          "price": "100-1280",
+          "type": 1,
+          "venue": "中国木偶剧院大剧场",
+          "url": "#",
+          "recommend": "3月10日10:00大麦App选座开票，浓情致敬不朽经典"
+        },
+        {
+          "id": 2,
+          "image": "../img/drama/2.jpg",
+          "title": "[上海]暑期欢乐季 甜甜的糖果哪去了《谁偷吃了糖果》",
+          "startTime": "2017.09.06",
+          "endTime": "2017.09.0",
+          "price": "100-1280",
+          "type": 2,
+          "venue": "大麦·超剧场",
+          "url": "#",
+          "recommend": ""
+        },
+        {
+          "id": 3,
+          "image": "../img/drama/2.jpg",
+          "title": "[北京]开心麻花爆笑舞台剧《李茶的姑妈》第10轮",
+          "startTime": "2017.09.06",
+          "endTime": "2017.09.0",
+          "price": "100-1280",
+          "type": 2,
+          "venue": "大麦·超剧场",
+          "url": "#",
+          "recommend": "3月10日10:00大麦App选座开票，浓情致敬不朽经典"
+        },
+        {
+          "id": 4,
+          "image": "../img/drama/2.jpg",
+          "title": "[天津]德云社10周年",
+          "startTime": "2017.09.06",
+          "endTime": "2017.09.0",
+          "price": "100-1280",
+          "type": 0,
+          "venue": "天桥剧场",
+          "url": "#",
+          "recommend": "3月10日10:00大麦App选座开票，浓情致敬不朽经典"
+        }
+      ]
+    },
+    "buttons": {
+      "description": {
+        "position": "bottom"
+      },
+      "items": [
+        {
+          "id": 1,
+          "icon": "../img/drama/icon-damai.png",
+          "text": "大麦戏剧节",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "icon": "../img/drama/icon-my.png",
+          "text": "我的戏剧节",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}

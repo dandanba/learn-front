@@ -4,11 +4,12 @@
   </div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
   export default {
     name: 'app'
   };
 </script>
 
-<style scoped lang="less">
+<style lang="less">
+  /*@import "./assets/less/reset";*/
 </style>
