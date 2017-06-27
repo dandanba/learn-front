@@ -5,11 +5,10 @@
 </template>
 
 <script type='text/ecmascript-6'>
-  import json from '../common/js/data.json';
   export default {
     name: 'mock',
     data () {
-      return {message: json};
+      return {message: 'hello mock'};
     }
   };
 </script>
